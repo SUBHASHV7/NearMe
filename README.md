@@ -11,7 +11,7 @@ Create a Django admin interface.
 
 ### STEP 2
 Download your city map from Google.
-
+ 
 ### STEP 3
 Using ```<map>``` tag name the map.
 
